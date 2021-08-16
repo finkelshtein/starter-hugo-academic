@@ -1,0 +1,11 @@
+# Font style metadata
+name = "myfont"
+
+# Optional Google font URL
+google_fonts = "Fira+Sans|Merriweather|Fira+Mono|Lato"
+
+# Font families
+heading_font = "Fira Sans"
+body_font = "Merriweather"
+nav_font = "Fira Sans"
+mono_font = "Fira Mono"
