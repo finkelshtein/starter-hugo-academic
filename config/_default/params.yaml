@@ -20,19 +20,18 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
- email: d.l.finkelshtein@swansea.ac.uk
- phone: +44 1792 606291
- #address:
+email: d.l.finkelshtein@swansea.ac.uk
+phone: +44 1792 606291
+address:
    street: Bay Campus, Fabian Way
    city: Swansea
-#   region: CA
    postcode: 'SA1 8EN'
    country: United Kingdom
    country_code: GB
-#  coordinates:
+coordinates:
    latitude: '51.619197'
    longitude: '-3.878578'
- directions: Computational Foundry, Room 325
+directions: Computational Foundry, Room 325
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
 #   - 'Wednesday 09:00 to 10:00'
