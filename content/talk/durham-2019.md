@@ -2,7 +2,7 @@
 date = "2019-03-11"
 title = "n-fold convolutions of probability densities with regular heavy tails"
 abstract = ""
-abstract_short = ""
+abstract_short = "" 
 event = "Statistics Seminar at Durham University"
 event_url = ""
 location = "Durham, UK"

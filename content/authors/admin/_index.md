@@ -4,7 +4,7 @@ name: Dmitri Finkelshtein
 
 # Username (this should match the folder name)
 authors:
-- dmitri
+- admin
 
 # Is this the primary user of the site?
 superuser: true

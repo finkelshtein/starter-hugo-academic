@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: d.l.finkelshtein@swansea.ac.uk
+#email: d.l.finkelshtein@swansea.ac.uk
 phone: +44 1792 606291
 address:
    street: Bay Campus, Fabian Way
@@ -58,7 +58,7 @@ directions: Computational Foundry, Room 325
 
 main_menu:
   enable: true
-  align: l
+  align: c
   show_logo: true
   show_language: false
   show_day_night: true
