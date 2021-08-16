@@ -11,7 +11,7 @@ selected = false
 math = true
 
 url_pdf = ""
-url_slides = "files/Leiden-2019.pdf"
+url_slides = "uploads/Leiden-2019.pdf"
 url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).
