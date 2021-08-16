@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: A website of a Mathematician
+title: A website of a mathematician
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
